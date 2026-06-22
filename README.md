@@ -3,6 +3,12 @@
 ## Overview
 This project demonstrates application deployment and infrastructure management using AWS Elastic Beanstalk.
 
+## Architecture
+
+![Elastic Beanstalk Architecture](screenshots/elastic-beanstalk-architecture.jpg)
+
+*Figure 1. Simplified architecture of the AWS Elastic Beanstalk environment.*
+
 ## Objectives
 - Create IAM roles
 - Deploy a sample Node.js application
