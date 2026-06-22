@@ -1,3 +1,9 @@
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
+![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?logo=amazonec2)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B)
+![IAM](https://img.shields.io/badge/IAM-DD344C)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs)
+
 # AWS Elastic Beanstalk Lab
 
 ## Overview
