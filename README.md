@@ -5,6 +5,8 @@ This project demonstrates application deployment and infrastructure management u
 
 ## Architecture
 
+The following diagram illustrates the simplified architecture of the AWS Elastic Beanstalk environment used in this hands-on laboratory.
+
 ![Elastic Beanstalk Architecture](screenshots/elastic-beanstalk-architecture.jpg)
 
 *Figure 1. Simplified architecture of the AWS Elastic Beanstalk environment.*
